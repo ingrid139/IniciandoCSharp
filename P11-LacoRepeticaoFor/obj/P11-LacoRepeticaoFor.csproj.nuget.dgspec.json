@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ingrid Costa\\Documents\\Desenvolvimento\\IniciandoCSharp\\P11-LacoRepeticaoFor\\P11-LacoRepeticaoFor.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ingrid Costa\\Documents\\Desenvolvimento\\IniciandoCSharp\\P11-LacoRepeticaoFor\\P11-LacoRepeticaoFor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ingrid Costa\\Documents\\Desenvolvimento\\IniciandoCSharp\\P11-LacoRepeticaoFor\\P11-LacoRepeticaoFor.csproj",
+        "projectName": "P11-LacoRepeticaoFor",
+        "projectPath": "C:\\Users\\Ingrid Costa\\Documents\\Desenvolvimento\\IniciandoCSharp\\P11-LacoRepeticaoFor\\P11-LacoRepeticaoFor.csproj",
+        "packagesPath": "C:\\Users\\Ingrid Costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ingrid Costa\\Documents\\Desenvolvimento\\IniciandoCSharp\\P11-LacoRepeticaoFor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ingrid Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

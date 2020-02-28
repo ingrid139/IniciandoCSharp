@@ -1,0 +1,20 @@
+C:\Users\icosta\source\repos\IniciandoCSharp\P10-LacoRepeticaoWhile\bin\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.exe
+C:\Users\icosta\source\repos\IniciandoCSharp\P10-LacoRepeticaoWhile\bin\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.deps.json
+C:\Users\icosta\source\repos\IniciandoCSharp\P10-LacoRepeticaoWhile\bin\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.runtimeconfig.json
+C:\Users\icosta\source\repos\IniciandoCSharp\P10-LacoRepeticaoWhile\bin\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.runtimeconfig.dev.json
+C:\Users\icosta\source\repos\IniciandoCSharp\P10-LacoRepeticaoWhile\bin\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.dll
+C:\Users\icosta\source\repos\IniciandoCSharp\P10-LacoRepeticaoWhile\bin\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.pdb
+C:\Users\icosta\source\repos\IniciandoCSharp\P10-LacoRepeticaoWhile\obj\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.AssemblyInfoInputs.cache
+C:\Users\icosta\source\repos\IniciandoCSharp\P10-LacoRepeticaoWhile\obj\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.AssemblyInfo.cs
+C:\Users\icosta\source\repos\IniciandoCSharp\P10-LacoRepeticaoWhile\obj\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.dll
+C:\Users\icosta\source\repos\IniciandoCSharp\P10-LacoRepeticaoWhile\obj\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.pdb
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\IniciandoCSharp\P10-LacoRepeticaoWhile\bin\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.exe
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\IniciandoCSharp\P10-LacoRepeticaoWhile\bin\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.deps.json
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\IniciandoCSharp\P10-LacoRepeticaoWhile\bin\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.runtimeconfig.json
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\IniciandoCSharp\P10-LacoRepeticaoWhile\bin\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.runtimeconfig.dev.json
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\IniciandoCSharp\P10-LacoRepeticaoWhile\bin\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.dll
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\IniciandoCSharp\P10-LacoRepeticaoWhile\bin\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.pdb
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\IniciandoCSharp\P10-LacoRepeticaoWhile\obj\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.AssemblyInfoInputs.cache
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\IniciandoCSharp\P10-LacoRepeticaoWhile\obj\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.AssemblyInfo.cs
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\IniciandoCSharp\P10-LacoRepeticaoWhile\obj\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.dll
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\IniciandoCSharp\P10-LacoRepeticaoWhile\obj\Debug\netcoreapp3.1\P10-LacoRepeticaoWhile.pdb

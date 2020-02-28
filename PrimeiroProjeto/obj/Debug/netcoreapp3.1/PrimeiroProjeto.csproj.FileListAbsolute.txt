@@ -1,0 +1,11 @@
+C:\Users\icosta\source\repos\IniciandoCSharp\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.exe
+C:\Users\icosta\source\repos\IniciandoCSharp\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.deps.json
+C:\Users\icosta\source\repos\IniciandoCSharp\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.runtimeconfig.json
+C:\Users\icosta\source\repos\IniciandoCSharp\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\icosta\source\repos\IniciandoCSharp\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.dll
+C:\Users\icosta\source\repos\IniciandoCSharp\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.pdb
+C:\Users\icosta\source\repos\IniciandoCSharp\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\icosta\source\repos\IniciandoCSharp\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\icosta\source\repos\IniciandoCSharp\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\icosta\source\repos\IniciandoCSharp\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.dll
+C:\Users\icosta\source\repos\IniciandoCSharp\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.pdb

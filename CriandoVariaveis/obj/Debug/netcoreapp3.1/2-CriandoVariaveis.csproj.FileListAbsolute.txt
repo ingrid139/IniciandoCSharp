@@ -1,0 +1,11 @@
+C:\Users\icosta\source\repos\IniciandoCSharp\CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.exe
+C:\Users\icosta\source\repos\IniciandoCSharp\CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.deps.json
+C:\Users\icosta\source\repos\IniciandoCSharp\CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.runtimeconfig.json
+C:\Users\icosta\source\repos\IniciandoCSharp\CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.runtimeconfig.dev.json
+C:\Users\icosta\source\repos\IniciandoCSharp\CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.dll
+C:\Users\icosta\source\repos\IniciandoCSharp\CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.pdb
+C:\Users\icosta\source\repos\IniciandoCSharp\CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.csprojAssemblyReference.cache
+C:\Users\icosta\source\repos\IniciandoCSharp\CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\icosta\source\repos\IniciandoCSharp\CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.AssemblyInfo.cs
+C:\Users\icosta\source\repos\IniciandoCSharp\CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.dll
+C:\Users\icosta\source\repos\IniciandoCSharp\CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.pdb
