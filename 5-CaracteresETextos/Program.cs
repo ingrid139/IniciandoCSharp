@@ -18,7 +18,7 @@ namespace _5_CaracteresETextos
             primeiraLetra = (char)(primeiraLetra + 1);
             Console.WriteLine(primeiraLetra);
 
-            string titulo = "Alura Cursos de tecnologia " + 2020;
+            string titulo = "Cursos de tecnologia " + 2020;
             string cursosProgramacao =
 @" - .NET
  - Java
