@@ -26,6 +26,15 @@ namespace _4_CriandoVariaveisEOutrosTiposNumericos
             float altura = 1.80f;
             Console.WriteLine(altura);
 
+
+            int valorUm = 5;
+            int valorDois = 2;
+            double valorDouble = 2.5;
+            decimal resultado = (decimal)valorUm / valorDois;
+            int valorInteiro = (int)valorDouble;
+
+            Console.WriteLine("Resultado cast: " + resultado);
+
             Console.ReadLine();
         }
     }

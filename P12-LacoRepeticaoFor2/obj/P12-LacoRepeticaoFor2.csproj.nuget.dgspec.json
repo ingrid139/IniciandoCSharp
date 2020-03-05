@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ingrid Costa\\Documents\\Desenvolvimento\\IniciandoCSharp\\P12-LacoRepeticaoFor2\\P12-LacoRepeticaoFor2.csproj": {}
+    "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\P12-LacoRepeticaoFor2\\P12-LacoRepeticaoFor2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ingrid Costa\\Documents\\Desenvolvimento\\IniciandoCSharp\\P12-LacoRepeticaoFor2\\P12-LacoRepeticaoFor2.csproj": {
+    "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\P12-LacoRepeticaoFor2\\P12-LacoRepeticaoFor2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ingrid Costa\\Documents\\Desenvolvimento\\IniciandoCSharp\\P12-LacoRepeticaoFor2\\P12-LacoRepeticaoFor2.csproj",
+        "projectUniqueName": "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\P12-LacoRepeticaoFor2\\P12-LacoRepeticaoFor2.csproj",
         "projectName": "P12-LacoRepeticaoFor2",
-        "projectPath": "C:\\Users\\Ingrid Costa\\Documents\\Desenvolvimento\\IniciandoCSharp\\P12-LacoRepeticaoFor2\\P12-LacoRepeticaoFor2.csproj",
-        "packagesPath": "C:\\Users\\Ingrid Costa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ingrid Costa\\Documents\\Desenvolvimento\\IniciandoCSharp\\P12-LacoRepeticaoFor2\\obj\\",
+        "projectPath": "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\P12-LacoRepeticaoFor2\\P12-LacoRepeticaoFor2.csproj",
+        "packagesPath": "C:\\Users\\icosta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\P12-LacoRepeticaoFor2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ingrid Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\icosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

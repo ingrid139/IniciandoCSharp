@@ -11,7 +11,9 @@ namespace P10_LacoRepeticaoWhile
 
             while (contador <= 10)
             {
-                total += contador;
+                //total += contador;
+                total = contador;
+                Console.WriteLine(total);
 
                 // contador = contador + 1;
                 // contador += 1;

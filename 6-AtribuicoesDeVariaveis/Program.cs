@@ -9,12 +9,13 @@ namespace _6_AtribuicoesDeVariaveis
             Console.WriteLine("Executando o projeto 6");
 
             int idade = 32;
-            int idadeGustavo = idade;
+            Console.WriteLine(idade);
+            int idadeIngrid = idade;
 
-            idade = 20;
+            idade = 40;
 
             Console.WriteLine(idade);
-            Console.WriteLine(idadeGustavo);
+            Console.WriteLine("Ingrid: " + idadeIngrid);
 
             Console.ReadLine();
         }

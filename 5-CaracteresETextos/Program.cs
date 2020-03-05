@@ -18,14 +18,14 @@ namespace _5_CaracteresETextos
             primeiraLetra = (char)(primeiraLetra + 1);
             Console.WriteLine(primeiraLetra);
 
-            string titulo = "Cursos de tecnologia " + 2020;
-            string cursosProgramacao =
-@" - .NET
- - Java
- - Javascript";
+            string titulo = "Codenation Women Itau";
+            string modulos =
+@"Variáveis
+Orientação Objeto
+Clean Code";
 
             Console.WriteLine(titulo);
-            Console.WriteLine(cursosProgramacao);
+            Console.WriteLine(modulos);
             Console.ReadLine();
         }
     }

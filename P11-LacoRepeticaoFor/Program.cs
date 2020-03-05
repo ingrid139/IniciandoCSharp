@@ -10,10 +10,12 @@ namespace P11_LacoRepeticaoFor
 
             for (int contador = 0; contador <= 10; contador++)
             {
-                total += contador;
+                //total += contador;
+                total = contador;
+                Console.WriteLine(contador);
             }
 
-            Console.WriteLine(total);
+            Console.WriteLine("Total: " + total);
 
             Console.ReadLine();
         }

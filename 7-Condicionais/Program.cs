@@ -8,22 +8,22 @@ namespace _7_Condicionais
         {
             Console.WriteLine("Executando projeto 7 - Condicionais");
 
-            int idadeJoao = 16;
-            int quantidadePessoas = 2;
+            int idadeCarla = 16;
+            int quantidadePessoas = 1;
 
-            if (idadeJoao >= 18)
+            if (idadeCarla >= 18)
             {
-                Console.WriteLine("João possui mais de 18 anos de idade. Pode entrar.");
+                Console.WriteLine("Carla possui mais de 18 anos. Pode entrar");
             }
             else
             {
                 if (quantidadePessoas >= 2)
                 {
-                    Console.WriteLine("João não possui mais de 18 anos, mas está acompanhado. Pode entrar");
+                    Console.WriteLine("Carla não possui 18 anos, mas está acompanhada");
                 }
                 else
                 {
-                    Console.WriteLine("João não possui mais de 18 anos, não pode entrar");
+                    Console.WriteLine("Carla não possui mais de 18 anos e não está acompanhada, não pode entrar");
                 }
             }
 

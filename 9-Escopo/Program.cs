@@ -8,25 +8,19 @@ namespace _9_Escopo
         {
             Console.WriteLine("Executando projeto 9 - Escopo");
 
-            int idadeJoao = 18;
-            bool acompanhado = true;
-            string mensagemAdicional;
+            int idadeCarla = 18;
+            bool acompanhada = true;
 
-            if (acompanhado == true)
-            {
-                mensagemAdicional = "João está acompanhado!";
-                Console.WriteLine(mensagemAdicional);
-            }
+            // string mensagemAdicional;
+            //string mensagemAdicional = "";
+            string mensagemAdicional = string.Empty;
+
+            if (acompanhada)
+                mensagemAdicional = "Carla está acompanhada";
             else
-            {
-                mensagemAdicional = "João NÃO está acompanhado";
-                Console.WriteLine(mensagemAdicional);
-            }
+                mensagemAdicional = "Carla não está acompanhada";
 
-
-
-
-            if (idadeJoao >= 18 || acompanhado == true)
+            if (idadeCarla >= 18 || acompanhada == true)
             {
                 Console.WriteLine("Pode entrar.");
                 Console.WriteLine(mensagemAdicional);

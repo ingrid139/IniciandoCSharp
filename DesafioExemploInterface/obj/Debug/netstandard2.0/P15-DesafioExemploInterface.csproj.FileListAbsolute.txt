@@ -1,0 +1,8 @@
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\DesafioExemploInterface\bin\Debug\netstandard2.0\P15-DesafioExemploInterface.deps.json
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\DesafioExemploInterface\bin\Debug\netstandard2.0\P15-DesafioExemploInterface.dll
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\DesafioExemploInterface\bin\Debug\netstandard2.0\P15-DesafioExemploInterface.pdb
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\DesafioExemploInterface\obj\Debug\netstandard2.0\P15-DesafioExemploInterface.csprojAssemblyReference.cache
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\DesafioExemploInterface\obj\Debug\netstandard2.0\P15-DesafioExemploInterface.AssemblyInfoInputs.cache
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\DesafioExemploInterface\obj\Debug\netstandard2.0\P15-DesafioExemploInterface.AssemblyInfo.cs
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\DesafioExemploInterface\obj\Debug\netstandard2.0\P15-DesafioExemploInterface.dll
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\DesafioExemploInterface\obj\Debug\netstandard2.0\P15-DesafioExemploInterface.pdb

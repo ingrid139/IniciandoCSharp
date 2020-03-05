@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Ingrid Costa\\.nuget\\packages\\": {},
+    "C:\\Users\\icosta\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ingrid Costa\\Documents\\Desenvolvimento\\IniciandoCSharp\\8-Condicionais2\\8-Condicionais2.csproj",
+      "projectUniqueName": "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\8-Condicionais2\\8-Condicionais2.csproj",
       "projectName": "8-Condicionais2",
-      "projectPath": "C:\\Users\\Ingrid Costa\\Documents\\Desenvolvimento\\IniciandoCSharp\\8-Condicionais2\\8-Condicionais2.csproj",
-      "packagesPath": "C:\\Users\\Ingrid Costa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ingrid Costa\\Documents\\Desenvolvimento\\IniciandoCSharp\\8-Condicionais2\\obj\\",
+      "projectPath": "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\8-Condicionais2\\8-Condicionais2.csproj",
+      "packagesPath": "C:\\Users\\icosta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\8-Condicionais2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ingrid Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\icosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

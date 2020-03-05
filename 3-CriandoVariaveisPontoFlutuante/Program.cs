@@ -21,6 +21,22 @@ namespace _3_CriandoVariaveisPontoFlutuante
             idade = 5.0 / 3;
             Console.WriteLine("5.0 / 3 = " + idade);
 
+            int valorUm = 5;
+            int valorDois = 2;
+            int resultado = valorUm / valorDois;
+            Console.WriteLine(resultado);
+
+            double variavelDouble = 2.0;
+            double valorUmDouble = 5.0;
+            double resultadoInteiro = valorUm / valorDois;
+            double resultadoDouble = valorUm / variavelDouble;
+            double resultadoDoubleDois = valorUmDouble / valorDois;
+
+
+            Console.WriteLine("Resultado inteiro é: " + resultadoInteiro);
+            Console.WriteLine("Resultado double é : " + resultadoDouble);
+            Console.WriteLine("Resultado double dois é: " + resultadoDoubleDois);
+
             Console.WriteLine("A execução acabou. Tecle enter para sair . . . ");
             Console.ReadLine();
         }

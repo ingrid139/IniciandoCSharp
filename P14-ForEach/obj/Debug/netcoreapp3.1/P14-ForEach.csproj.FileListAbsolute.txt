@@ -1,0 +1,11 @@
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\P14-ForEach\bin\Debug\netcoreapp3.1\P14-ForEach.exe
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\P14-ForEach\bin\Debug\netcoreapp3.1\P14-ForEach.deps.json
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\P14-ForEach\bin\Debug\netcoreapp3.1\P14-ForEach.runtimeconfig.json
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\P14-ForEach\bin\Debug\netcoreapp3.1\P14-ForEach.runtimeconfig.dev.json
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\P14-ForEach\bin\Debug\netcoreapp3.1\P14-ForEach.dll
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\P14-ForEach\bin\Debug\netcoreapp3.1\P14-ForEach.pdb
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\P14-ForEach\obj\Debug\netcoreapp3.1\P14-ForEach.csprojAssemblyReference.cache
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\P14-ForEach\obj\Debug\netcoreapp3.1\P14-ForEach.AssemblyInfoInputs.cache
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\P14-ForEach\obj\Debug\netcoreapp3.1\P14-ForEach.AssemblyInfo.cs
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\P14-ForEach\obj\Debug\netcoreapp3.1\P14-ForEach.dll
+C:\Users\icosta\source\repos\IniciandoCSharp\IniciandoCSharp\P14-ForEach\obj\Debug\netcoreapp3.1\P14-ForEach.pdb
