@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\9-Escopo\\9-Escopo.csproj": {}
+    "C:\\Users\\Ingrid Costa\\source\\repos\\IniciandoCSharp\\9-Escopo\\9-Escopo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\9-Escopo\\9-Escopo.csproj": {
+    "C:\\Users\\Ingrid Costa\\source\\repos\\IniciandoCSharp\\9-Escopo\\9-Escopo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\9-Escopo\\9-Escopo.csproj",
+        "projectUniqueName": "C:\\Users\\Ingrid Costa\\source\\repos\\IniciandoCSharp\\9-Escopo\\9-Escopo.csproj",
         "projectName": "9-Escopo",
-        "projectPath": "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\9-Escopo\\9-Escopo.csproj",
-        "packagesPath": "C:\\Users\\icosta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\9-Escopo\\obj\\",
+        "projectPath": "C:\\Users\\Ingrid Costa\\source\\repos\\IniciandoCSharp\\9-Escopo\\9-Escopo.csproj",
+        "packagesPath": "C:\\Users\\Ingrid Costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ingrid Costa\\source\\repos\\IniciandoCSharp\\9-Escopo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\icosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ingrid Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

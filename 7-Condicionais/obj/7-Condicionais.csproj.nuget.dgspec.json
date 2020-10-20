@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\7-Condicionais\\7-Condicionais.csproj": {}
+    "C:\\Users\\Ingrid Costa\\source\\repos\\IniciandoCSharp\\7-Condicionais\\7-Condicionais.csproj": {}
   },
   "projects": {
-    "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\7-Condicionais\\7-Condicionais.csproj": {
+    "C:\\Users\\Ingrid Costa\\source\\repos\\IniciandoCSharp\\7-Condicionais\\7-Condicionais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\7-Condicionais\\7-Condicionais.csproj",
+        "projectUniqueName": "C:\\Users\\Ingrid Costa\\source\\repos\\IniciandoCSharp\\7-Condicionais\\7-Condicionais.csproj",
         "projectName": "7-Condicionais",
-        "projectPath": "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\7-Condicionais\\7-Condicionais.csproj",
-        "packagesPath": "C:\\Users\\icosta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\7-Condicionais\\obj\\",
+        "projectPath": "C:\\Users\\Ingrid Costa\\source\\repos\\IniciandoCSharp\\7-Condicionais\\7-Condicionais.csproj",
+        "packagesPath": "C:\\Users\\Ingrid Costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ingrid Costa\\source\\repos\\IniciandoCSharp\\7-Condicionais\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\icosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ingrid Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

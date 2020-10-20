@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\PrimeiroProjeto\\1-PrimeiroProjeto.csproj": {}
+    "C:\\Users\\Ingrid Costa\\source\\repos\\IniciandoCSharp\\PrimeiroProjeto\\1-PrimeiroProjeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\PrimeiroProjeto\\1-PrimeiroProjeto.csproj": {
+    "C:\\Users\\Ingrid Costa\\source\\repos\\IniciandoCSharp\\PrimeiroProjeto\\1-PrimeiroProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
+        "projectUniqueName": "C:\\Users\\Ingrid Costa\\source\\repos\\IniciandoCSharp\\PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
         "projectName": "1-PrimeiroProjeto",
-        "projectPath": "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
-        "packagesPath": "C:\\Users\\icosta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\icosta\\source\\repos\\IniciandoCSharp\\IniciandoCSharp\\PrimeiroProjeto\\obj\\",
+        "projectPath": "C:\\Users\\Ingrid Costa\\source\\repos\\IniciandoCSharp\\PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
+        "packagesPath": "C:\\Users\\Ingrid Costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ingrid Costa\\source\\repos\\IniciandoCSharp\\PrimeiroProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\icosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ingrid Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
