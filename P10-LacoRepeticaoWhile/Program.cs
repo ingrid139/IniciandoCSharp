@@ -6,10 +6,16 @@ namespace P10_LacoRepeticaoWhile
     {
         static void Main(string[] args)
         {
-            int contador = 1;
+            Console.WriteLine("Executando projeto 10 - While");
+
+            Console.WriteLine("Digite um valor para dar início a contagem regressiva");
+            string contadorDigitado = Console.ReadLine();
+            int contador = Int32.Parse(contadorDigitado);
             int total = 0;
 
-            while (contador <= 10)
+            Console.WriteLine();
+
+            while (contador >= 0)
             {
                 //total += contador;
                 total = contador;
@@ -17,11 +23,8 @@ namespace P10_LacoRepeticaoWhile
 
                 // contador = contador + 1;
                 // contador += 1;
-                contador++;
+                contador--;
             }
-
-            Console.WriteLine(contador);
-            Console.WriteLine(total);
 
             Console.ReadLine();
         }
