@@ -11,11 +11,18 @@ namespace _8._2_Condicionais4
 
             string farol = Console.ReadLine();
 
-            if (farol == "verde")
+            if (farol.ToLower() != "verde" &&
+                farol.ToLower() != "amarelo" &&
+                farol.ToLower() != "vermelho")
+            {
+                Console.WriteLine("Por favor digite uma cor valida.");
+
+            }
+            else if (farol.ToLower() == "verde")
             {
                 Console.WriteLine("Farol verde. Siga em frente.");
             }
-            else if (farol == "amarelo")
+            else if (farol.ToLower() == "amarelo")
             {
                 Console.WriteLine("Farol amarelo. Atenção.");
             }
