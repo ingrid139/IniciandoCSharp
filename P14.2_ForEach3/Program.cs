@@ -14,6 +14,10 @@ namespace P14._2_ForEach3
             numeros.Add(3);
             numeros.Add(4);
             numeros.Add(5);
+            numeros.Add(7);
+            numeros.Add(8);
+            numeros.Add(0);
+            numeros.Add(1);
 
             List<int> pares = new List<int>();
             List<int> impares = new List<int>();
@@ -34,7 +38,7 @@ namespace P14._2_ForEach3
             pares.Sort();
             foreach (var item in pares)
             {
-                Console.Write($"{item} ");
+                Console.Write(item);
             }
 
             Console.WriteLine();
@@ -42,7 +46,7 @@ namespace P14._2_ForEach3
             impares.Sort();
             foreach (var item in impares)
             {
-                Console.Write($"{item} ");
+                Console.Write(item);
             }
 
             Console.ReadKey();
