@@ -33,15 +33,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P14-ForEach", "P14-ForEach\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P15-DesafioExemploInterface", "DesafioExemploInterface\P15-DesafioExemploInterface.csproj", "{29E4D556-6B1B-44BF-AD19-466E39B64E75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1-Condicionais3", "8.1-Condicionais3\8.1-Condicionais3.csproj", "{FCB9F70B-223B-4DDA-B4E9-AFF4C1051778}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.1-Condicionais3", "8.1-Condicionais3\8.1-Condicionais3.csproj", "{FCB9F70B-223B-4DDA-B4E9-AFF4C1051778}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2-Condicionais4", "8.2-Condicionais4\8.2-Condicionais4.csproj", "{F17B972F-67EA-4D7C-9A7D-CD349E96E65A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.2-Condicionais4", "8.2-Condicionais4\8.2-Condicionais4.csproj", "{F17B972F-67EA-4D7C-9A7D-CD349E96E65A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10.1-LacoRepeticaoWhile2", "P10.1-LacoRepeticaoWhile2\P10.1-LacoRepeticaoWhile2.csproj", "{4B779899-FFA3-4121-A362-4ACA9739FFFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P10.1-LacoRepeticaoWhile2", "P10.1-LacoRepeticaoWhile2\P10.1-LacoRepeticaoWhile2.csproj", "{4B779899-FFA3-4121-A362-4ACA9739FFFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P14.1-ForEach2", "P14.1-ForEach2\P14.1-ForEach2.csproj", "{59E224A4-92AC-426A-BD27-4CF58AE771F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P14.1-ForEach2", "P14.1-ForEach2\P14.1-ForEach2.csproj", "{59E224A4-92AC-426A-BD27-4CF58AE771F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P14.2_ForEach3", "P14.2_ForEach3\P14.2_ForEach3.csproj", "{E3520D6F-E57E-4183-8812-CD3CC49DC4B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P14.2_ForEach3", "P14.2_ForEach3\P14.2_ForEach3.csproj", "{E3520D6F-E57E-4183-8812-CD3CC49DC4B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P16.SwitchCase", "P16.SwitchCase\P16.SwitchCase.csproj", "{BFD2F861-4763-402C-8F9E-72431F588F7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{E3520D6F-E57E-4183-8812-CD3CC49DC4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3520D6F-E57E-4183-8812-CD3CC49DC4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3520D6F-E57E-4183-8812-CD3CC49DC4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD2F861-4763-402C-8F9E-72431F588F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD2F861-4763-402C-8F9E-72431F588F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD2F861-4763-402C-8F9E-72431F588F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD2F861-4763-402C-8F9E-72431F588F7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
